@@ -14,3 +14,6 @@ echo "información de red: $network_info "
 echo " resultado de ping a $ip_address: $ping_result "
 echo "-----------------------------------"
 
+# mostrar resultados utilizando la platilla
+echo "$template"
+echo "--------------------"
