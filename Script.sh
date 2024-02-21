@@ -16,7 +16,6 @@ systeminfo
 echo "información de red: "
 arp -a 
 
-
-# mostrar resultados utilizando la platilla
-#"echo "$template"
-# echo "--------------------""
+#gato galactico
+echo "un gato galactico"
+curl ascii.live/nyan
