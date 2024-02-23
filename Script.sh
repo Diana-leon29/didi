@@ -20,3 +20,5 @@ arp -a
 # mostrar resultados utilizando la platilla
 #"echo "$template"
 # echo "--------------------""
+
+hoy casi pasamos ciberseguridad
