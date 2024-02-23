@@ -20,3 +20,11 @@ arp -a
 # mostrar resultados utilizando la platilla
 #"echo "$template"
 # echo "--------------------""
+
+#regedit: Abre el Editor del Registro de Windows.
+echo "Abre el Editor del Registro de Windows."
+regedit
+
+#Codigo de gato en cmd
+echo "Nos muestra un gato en imagen volador"
+curl ascii.live/nyan
