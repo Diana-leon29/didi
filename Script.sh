@@ -20,3 +20,8 @@ arp -a
 # mostrar resultados utilizando la platilla
 #"echo "$template"
 # echo "--------------------""
+
+#regedit: Abre el Editor del Registro de Windows.
+echo "Abre el Editor del Registro de Windows."
+regedit
+
