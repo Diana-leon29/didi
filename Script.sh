@@ -21,4 +21,7 @@ arp -a
 #"echo "$template"
 # echo "--------------------""
 
-hoy casi pasamos ciberseguridad
+#regedit: Abre el Editor del Registro de Windows.
+echo "Abre el Editor del Registro de Windows."
+regedit
+
