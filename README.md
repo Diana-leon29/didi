@@ -5,7 +5,9 @@
 <div align="center">
 <h3><b>TECNOLOGO EN GESTÓN DE REDES DE DATOS<b>
 
+<div align="center">
 <img src="logo-sena.png" alt="logo" width="140" height="auto" style="border-radius:50%"   />
+</div>
 
 <br/>
 
@@ -294,7 +296,7 @@ Diana León
  - GitHub: [@Diana-leon29]https://github.com/Diana-leon29
 
 
-## 🕹️ Future Features <a name="future-features"></a>
+## 🕹️ FUNCIONES FUTURAS <a name="future-features"></a>
 
 - [ ] **[Ping]**
 - [ ] **[Nslookup]**
