@@ -329,7 +329,7 @@ No siempre hay claridad de todas las bases abordadas, pero no es nada que la pra
 Agradezco a mis colaboradores e instructor del Sena por la ayuda brindada en el proceso de aprendizaje. 
 
 
-## 📃 LISENCIA <a name="license"></a>
+## 📃 LICENCIA <a name="license"></a>
 
 Este proyecto es [MIT](./LICENSE.md) licensed
 
